@@ -65,7 +65,7 @@ Here are some interesting projects and contributions you can explore:
 
 ### 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/naveenkumarreddy21)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/naveenreddy21/)
 - 📧 naveenreddy.puthi@gmail.com
 
 ---
