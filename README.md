@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="(https://github-readme-streak-stats.herokuapp.com/?user=NaveenKumarReddy21&theme=tokyonight%22%20alt=%22GitHub%20Streak)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenKumarReddy21&theme=tokyonight%22%20alt=%22GitHub%20Streak" />
 </p>
 
 ---
