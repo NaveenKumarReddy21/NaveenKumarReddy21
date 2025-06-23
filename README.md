@@ -1,8 +1,10 @@
 <h1 align="center">Hi , I'm P. Naveen Kumar Reddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
-<a href="https://github.com/NaveenKumarReddy21">
+<p align="center">
+  <a href="https://github.com/NaveenKumarReddy21">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=💻+Python+Full+Stack+Developer;📊+Aspiring+Data+Scientist;🌐+IoT+Enthusiast+%7C+AI+Learner;🚀+Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG">
   </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NaveenKumarReddy21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
