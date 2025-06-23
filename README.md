@@ -20,7 +20,6 @@
 * 💡 Final Year Project: **IoT-Based Energy Monitoring System**
 * 🏆 1st Prize: **Troubleshooting Electrical Drives and Appliances** at National-Level Workshop
 * 📧 Email: **[naveenreddy.puthi@gmail.com](mailto:naveenreddy.puthi@gmail.com)**
-* 📞 Mobile: **+91 6301858070**
 * 🌍 Based in **Hyderabad, India**
 
 ---
@@ -85,7 +84,7 @@
 
 ### 🗓️ GitHub Calendar
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NaveenKumarReddy21\&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaveenKumarReddy21&theme=dracula)
 
 ---
 
